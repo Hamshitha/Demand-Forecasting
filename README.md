@@ -31,8 +31,7 @@ DemandForecasting/
 │── analysis.ipynb                 # Data analysis
 │── xgboost_demand_model.pkl      # Trained model
 │── label_encoders.pkl            # Encoders for categorical data
-│── requirements.txt              # Dependencies (optional)
-⚙️ Installation
+│── data.txt                      # DataSet 
 
 Clone the repository:
 git clone https://github.com/your-username/demand-forecasting.git
