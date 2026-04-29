@@ -1,4 +1,5 @@
-📘 README.md (you can copy-paste)
+📘 README.md 
+
 📊 Demand Forecasting App
 
 This project predicts product demand using a machine learning model trained on historical sales and market data. It includes a user-friendly web interface built with Streamlit for real-time predictions.
